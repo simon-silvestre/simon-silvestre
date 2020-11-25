@@ -31,9 +31,7 @@
 
 ---
 
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=simon-silvestre&show_icons=true&theme=nord" />
+  <img align="left" alt="simon silvestre GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=simon-silvestre&show_icons=true&theme=nord" />
 
 
 [website]: https://simon-projets.com
