@@ -1,9 +1,9 @@
 ### Salut je m'appelle Simon Silvestre, bienvenue sur mon github 👋
 
-- 🌱 J'apprends actuellement le framework Vue js 
-- 👯 Je suis à la recherche d'un emploi de développeur frontend / intégrateur frontend
-- 🥅 2020 Goals: Trouver un emploi dans une startup où il fait bon de travailler
-- ⚡ Fun fact: J'adore faire du sport et entreprendre des projets
+- 🌱  Je me perfectionne actuellement sur le framework Vue js 
+- 👯  Je suis à la recherche d'un emploi de développeur frontend
+- 🥅  2021 Goals: Trouver un emploi dans une entreprise où il fait bon de travailler
+- ⚡  Fun fact: J'adore faire du sport et entreprendre des projets
 
 ### Connect with me:
 
