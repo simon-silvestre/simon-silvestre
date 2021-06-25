@@ -32,8 +32,6 @@
 
 ---
 
-  <img align="left" alt="simon silvestre GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=simon-silvestre&show_icons=true&theme=vue&hide_border=true" />
-
 
 [website]: https://simon-projets.com
 [linkedin]: https://www.linkedin.com/in/simon-silvestre
