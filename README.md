@@ -1,6 +1,6 @@
 ### Salut je m'appelle Simon Silvestre, bienvenue sur mon github 👋
 
-- 🌱  Je suis actuellement en apprentissage sur le framework ReactJs
+- 🌱  J'utilise actuellement le framework ReactJs
 - 👯  Je suis à la recherche d'un emploi de développeur frontend
 - 🥅  2022 Goals: Trouver un emploi dans une entreprise où il fait bon de travailler
 - ⚡  Fun fact: J'adore faire du sport et entreprendre des projets
